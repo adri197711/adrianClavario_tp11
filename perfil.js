@@ -1,4 +1,4 @@
-//Mcri desafío 1
+//Micro desafío 1
 
 const perfil = "administrador";
 
